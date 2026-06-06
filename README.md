@@ -2,8 +2,6 @@
 
 Implementation and extension of the **Cox-Ingersoll-Ross (CIR)** model for yield curve reconstruction from a single observable short rate.
 
-**Author:** Sanskriti Mishra (24114086) | Finance Club, IIT Roorkee
-
 ---
 
 ## What This Project Does
